@@ -1,0 +1,16 @@
+/home/hbp16/Documents/files/bin/Debug/net5.0/files
+/home/hbp16/Documents/files/bin/Debug/net5.0/files.deps.json
+/home/hbp16/Documents/files/bin/Debug/net5.0/files.runtimeconfig.json
+/home/hbp16/Documents/files/bin/Debug/net5.0/files.runtimeconfig.dev.json
+/home/hbp16/Documents/files/bin/Debug/net5.0/files.dll
+/home/hbp16/Documents/files/bin/Debug/net5.0/ref/files.dll
+/home/hbp16/Documents/files/bin/Debug/net5.0/files.pdb
+/home/hbp16/Documents/files/obj/Debug/net5.0/files.csprojAssemblyReference.cache
+/home/hbp16/Documents/files/obj/Debug/net5.0/files.GeneratedMSBuildEditorConfig.editorconfig
+/home/hbp16/Documents/files/obj/Debug/net5.0/files.AssemblyInfoInputs.cache
+/home/hbp16/Documents/files/obj/Debug/net5.0/files.AssemblyInfo.cs
+/home/hbp16/Documents/files/obj/Debug/net5.0/files.csproj.CoreCompileInputs.cache
+/home/hbp16/Documents/files/obj/Debug/net5.0/files.dll
+/home/hbp16/Documents/files/obj/Debug/net5.0/ref/files.dll
+/home/hbp16/Documents/files/obj/Debug/net5.0/files.pdb
+/home/hbp16/Documents/files/obj/Debug/net5.0/files.genruntimeconfig.cache
